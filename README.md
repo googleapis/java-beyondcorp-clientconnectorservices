@@ -22,20 +22,20 @@ If you are using Maven, add this to your pom.xml file:
 <dependency>
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-beyondcorp-clientconnectorservices</artifactId>
-  <version>0.1.3</version>
+  <version>0.3.0</version>
 </dependency>
 ```
 
 If you are using Gradle without BOM, add this to your dependencies:
 
 ```Groovy
-implementation 'com.google.cloud:google-cloud-beyondcorp-clientconnectorservices:0.1.3'
+implementation 'com.google.cloud:google-cloud-beyondcorp-clientconnectorservices:0.3.0'
 ```
 
 If you are using SBT, add this to your dependencies:
 
 ```Scala
-libraryDependencies += "com.google.cloud" % "google-cloud-beyondcorp-clientconnectorservices" % "0.1.3"
+libraryDependencies += "com.google.cloud" % "google-cloud-beyondcorp-clientconnectorservices" % "0.3.0"
 ```
 
 ## Authentication
