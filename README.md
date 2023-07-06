@@ -18,6 +18,7 @@ https://github.com/googleapis/google-cloud-java/tree/main/java-beyondcorp-client
 This repository will be archived in the future.
 Future releases will appear in the new repository (https://github.com/googleapis/google-cloud-java/releases).
 The Maven artifact coordinates (`com.google.cloud:google-cloud-beyondcorp-clientconnectorservices`) remain the same.
+Sample code is in https://github.com/GoogleCloudPlatform/java-docs-samples.
 
 ## Quickstart
 
